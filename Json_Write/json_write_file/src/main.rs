@@ -33,5 +33,5 @@ fn main(){
     };
 
     let json = serde_json::to_string(&article).unwrap();
-    println!("Here is the  JSON format  : {}",json);
+    println!("Here is the  JSON data  : {}",json);
 }
