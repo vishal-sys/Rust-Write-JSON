@@ -1,0 +1,11 @@
+C:\Users\visha\Desktop\Rust_Projects_Vishal\Get_Req\get_req\target\debug\deps\socket2-1787f873de50bcf1.rmeta: C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\lib.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sockaddr.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\socket.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\utils.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sys\windows.rs
+
+C:\Users\visha\Desktop\Rust_Projects_Vishal\Get_Req\get_req\target\debug\deps\libsocket2-1787f873de50bcf1.rlib: C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\lib.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sockaddr.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\socket.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\utils.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sys\windows.rs
+
+C:\Users\visha\Desktop\Rust_Projects_Vishal\Get_Req\get_req\target\debug\deps\socket2-1787f873de50bcf1.d: C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\lib.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sockaddr.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\socket.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\utils.rs C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sys\windows.rs
+
+C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\lib.rs:
+C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sockaddr.rs:
+C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\socket.rs:
+C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\utils.rs:
+C:\Users\visha\.cargo\registry\src\index.crates.io-6f17d22bba15001f\socket2-0.3.19\src\sys\windows.rs:
